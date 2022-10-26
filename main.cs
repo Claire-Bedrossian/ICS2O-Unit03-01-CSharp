@@ -13,8 +13,7 @@ class Program
         double baseA;
         double baseB;
         double height;
-        double area;
-        
+        double area;        
         Console.WriteLine("This program calculates the area of a trapezoid.");
         Console.WriteLine("");
 
